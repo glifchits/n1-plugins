@@ -38,5 +38,5 @@ If you create a plugin, please make a pull request to add it here!
 - Recent searches in sourcelist
 - Sender info powered by ClearBit in sidebar
 - Encrypt messages with Keybase
-
+- Snooze your email, inspired by Mailbox ([RIP](http://www.mailboxapp.com/))
 
